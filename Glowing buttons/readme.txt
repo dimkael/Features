@@ -1,1 +1,1 @@
-Простые светящиеся кнопки социальных сетей, написанные на CSS.
+# Demonstration: https://dimkael.github.io/Features/Glowing%20buttons/
